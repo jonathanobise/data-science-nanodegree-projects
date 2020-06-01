@@ -5,8 +5,8 @@
 Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the goal was to investigate the 2019 Stack Overflow Developer Survey dataset in the bid to answer the follwoing questions: 
 
 + From the data, which country has the highest job satisfaction for developers?
-+ With respect to job satisfaction, is there any difference between developers with IT-related undergraduate major and those with such?
-+ On salary, are developers who claim to contribute to open source paid better than those that are not?
++ With respect to job satisfaction, is there any difference between developers with IT-related undergraduate major and those without such?
++ On salary, are developers who claim to contribute to open source better paid than those who don't?
 
 ## File Description
 As at 1st June 2020, the dataset could be accessed here: https://insights.stackoverflow.com/survey
