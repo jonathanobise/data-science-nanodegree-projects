@@ -16,7 +16,7 @@ As at 1st June 2020, the dataset could be accessed here: https://insights.stacko
 + Matplotlib
 + Seaborn
 
-## Results of the analysis
+## Results of Our Analysis
 You may the discussion on the results which was published on Medium here: [How To Make Sense of Stack Overflow Developer Survey 2019](https://medium.com/@obise.jonathan/how-to-make-sense-of-stackoverflow-developer-survey-2019-4885291da106)
 
 The analysis on the 2019 developer survey from Stack Overflow led to the following conclusions:
