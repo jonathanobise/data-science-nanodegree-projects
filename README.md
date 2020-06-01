@@ -1,12 +1,12 @@
 # DSND
 # Data Scientist Nanodegree - Udacity - Project 1 - Data Science Blog
 
-Project Motivation
+## Project Motivation
 Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the 2019 Stack Overflow Developer Survey dataset was investigated to answer the following questions: 
 
-Is there any noticeable difference between Seattle and Boston Airbnb?
-What are the most important features to estimate Airbnb rental price?
-What are the top amenities people needs most?
++ From the data, which country has the highest job satisfaction for developers?
++ With respect to job satisfaction, is there any difference between developers with IT-related undergraduate major and those with such?
++ On salary, are developers who claim to contribute to open source paid better than those that are not?
 
 ## File Description
 As at 1st June 2020, the dataset could be accessed here: https://insights.stackoverflow.com/survey
