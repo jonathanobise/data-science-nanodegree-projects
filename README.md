@@ -2,7 +2,7 @@
 # Data Scientist Nanodegree - Udacity - Project 1 - Data Science Blog
 
 ## Project Motivation
-Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the 2019 Stack Overflow Developer Survey dataset was investigated to answer the following questions: 
+Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the goal was to investigate the 2019 Stack Overflow Developer Survey dataset in the bid to answer the follwoing questions: 
 
 + From the data, which country has the highest job satisfaction for developers?
 + With respect to job satisfaction, is there any difference between developers with IT-related undergraduate major and those with such?
@@ -10,6 +10,11 @@ Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the 2019 St
 
 ## File Description
 As at 1st June 2020, the dataset could be accessed here: https://insights.stackoverflow.com/survey
+
+## Libraries Used
+Pandas 
+Matplotlib
+Seaborn
 
 ## Results of the analysis
 You may the discussion on the results which was published on Medium here: [How To Make Sense of Stack Overflow Developer Survey 2019](https://medium.com/@obise.jonathan/how-to-make-sense-of-stackoverflow-developer-survey-2019-4885291da106)
