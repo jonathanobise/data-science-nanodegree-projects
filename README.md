@@ -12,9 +12,9 @@ Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the goal wa
 As at 1st June 2020, the dataset could be accessed here: https://insights.stackoverflow.com/survey
 
 ## Libraries Used
-Pandas 
-Matplotlib
-Seaborn
++ Pandas 
++ Matplotlib
++ Seaborn
 
 ## Results of the analysis
 You may the discussion on the results which was published on Medium here: [How To Make Sense of Stack Overflow Developer Survey 2019](https://medium.com/@obise.jonathan/how-to-make-sense-of-stackoverflow-developer-survey-2019-4885291da106)
