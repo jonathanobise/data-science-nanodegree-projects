@@ -23,3 +23,8 @@ The analysis on the 2019 developer survey from Stack Overflow led to the followi
 + The majority of developers work from the office with Denmark and Finalnd having the highest number of developers who lay such claim.
 + Most developers say they use the Windows operating system. And developers from South Africa and Pakistan lead in the percentage of developers in this category.
 + On employment, we learn that a substantial number of developers are 'employed full-time'. The highest is Norway at about 95% and the lowest is Nigeria at about 58% who fall under this category.
+
+## Acknowledgements 
++ [Google Colab] (https://colab.research.google.com/)
++ [Pandas Documentation] (https://pandas.pydata.org/pandas-docs/stable/index.html)
++ [Matplotlib] (https://matplotlib.org/)
