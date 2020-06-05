@@ -16,16 +16,16 @@ As at 1st June 2020, the dataset could be accessed here: https://insights.stacko
 + Matplotlib
 
 ## Table of Content
-+ 1.0 Introduction
-+ 2.0 Data Acquisition and Preparation
-+ 3.0 Data Exploration
-  + 3.1 Developer Profile
-    + 3.1.1 Work Location of Developers in the Top 40 Countries
-  + 3.2 Technology
-    + 3.2.1 Operating System Used By Developers in the Top 40 Countries
-  + 3.3 Employment
-    + 3.3.1 Employment Type of Developers in the Top 40 Countries
-4.0 Conclusion
+1. 1.0 Introduction
+1. 2.0 Data Acquisition and Preparation
+1. 3.0 Data Exploration
+  1. 3.1 Developer Profile
+    1. 3.1.1 Work Location of Developers in the Top 40 Countries
+  1. 3.2 Technology
+    1. 3.2.1 Operating System Used By Developers in the Top 40 Countries
+  1. 3.3 Employment
+    1. 3.3.1 Employment Type of Developers in the Top 40 Countries
+1. 4.0 Conclusion
 
 
 ## Results of Our Analysis
