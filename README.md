@@ -15,6 +15,19 @@ As at 1st June 2020, the dataset could be accessed here: https://insights.stacko
 + Pandas 
 + Matplotlib
 
+## Table of Content
+1.0 [Introduction] (https://render.githubusercontent.com/view/ipynb?commit=eaf692e85dad34f8d7a4497a56721d365a669b8e&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6a6f6e617468616e6f626973652f44534e442f656166363932653835646164333466386437613434393761353637323164333635613636396238652f446174615f536369656e63655f4e616e6f6465677265655f5f5f446174615f536369656e63655f426f675f50726f6a6563745f312e6970796e62&nwo=jonathanobise%2FDSND&path=Data_Science_Nanodegree___Data_Science_Bog_Project_1.ipynb&repository_id=268606315&repository_type=Repository#1.0-Introduction)
+2.0 Data Acquisition and Preparation
+3.0 Data Exploration
+  3.1 Developer Profile
+    3.1.1 Work Location of Developers in the Top 40 Countries
+  3.2 Technology
+    3.2.1 Operating System Used By Developers in the Top 40 Countries
+  3.3 Employment
+    3.3.1 Employment Type of Developers in the Top 40 Countries
+4.0 Conclusion
+
+
 ## Results of Our Analysis
 You may the discussion on the results which was published on Medium here: [How To Make Sense of Stack Overflow Developer Survey 2019](https://medium.com/@obise.jonathan/how-to-make-sense-of-stackoverflow-developer-survey-2019-4885291da106)
 
