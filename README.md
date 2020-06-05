@@ -2,7 +2,7 @@
 # Data Scientist Nanodegree - Udacity - Project 1 - Data Science Blog
 
 ## Project Motivation
-Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the goal was to investigate the 2019 Stack Overflow Developer Survey dataset in the bid to answer the follwoing questions: 
+Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the goal was to investigate the 2019 Stack Overflow Developer Survey dataset in the bid to answer the following questions: 
 
 + Where do the developers in the top 40 countries work from?
 + What operating systems are the most used by developers in the top 40 countries?
