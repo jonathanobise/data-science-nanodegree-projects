@@ -1,4 +1,3 @@
-# DSND
 # Data Scientist Nanodegree - Udacity - Project 1 - Data Science Blog
 
 ## Project Motivation
