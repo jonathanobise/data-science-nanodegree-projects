@@ -8,7 +8,7 @@ Using the Cross-Industry Standard Process of Data Mining (CRISP-DM), the goal wa
 + What is the employment type of developers in the top 40 countries?
 
 ## File Description
-As at 1st June 2020, the dataset could be accessed here: [2019 Stack Overflow Developer Survey Data](https://insights.stackoverflow.com/survey)
+As at 1st June 2020, the dataset could be accessed right here: [2019 Stack Overflow Developer Survey Data](https://insights.stackoverflow.com/survey)
 
 ## Libraries Used
 + Pandas 
