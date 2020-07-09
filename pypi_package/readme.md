@@ -3,7 +3,7 @@ To upload this package to your pypi account, you would need to do a number of th
 
 Create a setup.cfg file, README.md file, and license.txt file. You'll also need to create accounts for the pypi test repository and pypi repository by visiting https://test.pypi.org/ and https://pypi.org/ respectively. 
 
-*Important:* Don't forget to keep your passwords; you'll need to type them into the command line.
+**Important:** Don't forget to keep your passwords; you'll need to type them into the command line.
 
 Once you have all the files set up correctly, you can use the following commands on the command line (please do note that you need to make the name of the package unique, so change the name of the package from **my-gaubi-distributions** to something else. That means changing the information in the setup.py and the folder name):
 
