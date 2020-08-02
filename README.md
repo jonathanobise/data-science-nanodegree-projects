@@ -30,7 +30,7 @@ As at 1st June 2020, the dataset could be accessed right here: [2019 Stack Overf
 ## Summary Results of Analysis
 You may the discussion on the results which was published on Medium here: [How To Make Sense of Stack Overflow Developer Survey 2019](https://medium.com/@obise.jonathan/how-to-make-sense-of-stackoverflow-developer-survey-2019-4885291da106)
 
-The analysis on the 2019 developer survey from Stack Overflow led to the following conclusions:
+The analysis on the 2019 developer survey from StackOverflow led to the following conclusions:
 
 + The majority of developers work from the office with Denmark and Finalnd having the highest number of developers who lay such claim.
 + Most developers say they use the Windows operating system. And developers from South Africa and Pakistan lead in the percentage of developers in this category.
